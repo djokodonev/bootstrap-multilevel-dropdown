@@ -1,4 +1,4 @@
-bootstrap-multilevel-dropdown
+Bootstrap 3 Multilevel Dropdowns
 =============================
 
 Extension for Bootstrap 3 to provide support for Multilevel dropdowns.

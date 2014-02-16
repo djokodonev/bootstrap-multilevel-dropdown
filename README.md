@@ -8,10 +8,11 @@ It overiddes the default bootstrap one and alllows support for multilevel dropdo
 It needs no changes to the core files.
 
 Add the css file:
-<code>
+```sh
   <link href="bootstrap/css/bootstrap-dropdown-multilevel.css" rel="stylesheet" />
-</code>
+```
+
 Add the javascript after the bootstrap one:
-<code>
+```sh
 <script src="bootstrap/js/bootstrap-dropdown-multilevel.js"></script>
-</code>
+```

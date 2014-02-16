@@ -11,9 +11,7 @@ Add the css file:
 <code>
   <link href="bootstrap/css/bootstrap-dropdown-multilevel.css" rel="stylesheet" />
 </code>
-
 Add the javascript after the bootstrap one:
 <code>
 <script src="bootstrap/js/bootstrap-dropdown-multilevel.js"></script>
 </code>
-
